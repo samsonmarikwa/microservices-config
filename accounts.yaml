@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0.0"
+
+accounts:
+  message: "Welcome. Accounts Local Environment!"
+  contactDetails:
+    name: "John Doe - Developer Support"
+    email: "john.doe@example.com"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 987-6543
