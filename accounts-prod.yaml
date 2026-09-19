@@ -3,7 +3,7 @@ accounts:
   message: "Welcome. Accounts PROD Environment!"
   contactDetails:
     name: "Barack Obama - Production Support"
-    email: "barack.obama@example.com"
+    email: "{cipher}c7f68f5769da2bae1a825080cade2e6107efea700b6ec9ca93e9de74be13e5effdcee167a0d75d7657cc9530de7218fc"
   onCallSupport:
     - (555) 123-4567
     - (555) 987-6543

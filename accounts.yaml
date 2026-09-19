@@ -6,7 +6,7 @@ accounts:
   message: "Welcome. Accounts Local Environment!"
   contactDetails:
     name: "John Doe - Developer Support"
-    email: "john.doe@example.com"
+    email: "{cipher}35a1018d0bf8ebc1550cd07371bf37e3831860f9ec1b33b126d436e5350da298d1a55a1d791316f4308209190eecf7bf"
   onCallSupport:
     - (555) 123-4567
     - (555) 987-6543
