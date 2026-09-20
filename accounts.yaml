@@ -3,7 +3,7 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Welcome. Accounts Local Environment!"
+  message: "Welcome. Accounts Local Env!"
   contactDetails:
     name: "John Doe - Developer Support"
     email: "{cipher}35a1018d0bf8ebc1550cd07371bf37e3831860f9ec1b33b126d436e5350da298d1a55a1d791316f4308209190eecf7bf"

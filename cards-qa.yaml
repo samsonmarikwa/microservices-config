@@ -1,9 +1,9 @@
 
 cards:
-  message: "Welcome. Cards Microservice API QA Environment!"
+  message: "Welcome. Cards API QA Env!"
   contactDetails:
-    name: "Joseph Bloggs - QA Support"
-    email: "joseph.bloggs@example.com"
+    name: "Joe Bloggs - QA Support"
+    email: "joe.bloggs@example.com"
   onCallSupport:
     - (444) 123-4567
     - (444) 987-6543

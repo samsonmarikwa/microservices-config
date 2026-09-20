@@ -1,6 +1,6 @@
 
 accounts:
-  message: "Welcome. Accounts QA Environment!"
+  message: "Welcome. Accounts QA Env!"
   contactDetails:
     name: "Joe Bloggs - QA Support"
     email: "{cipher}01ced1c43c4fb98af8f7269eb484bfeff1b9fd21d93e02a83252349b098681fcc50dd95ba0259c1a78a956eeb866fc6d"
