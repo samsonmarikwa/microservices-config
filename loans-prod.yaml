@@ -1,9 +1,9 @@
 
 loans:
-  message: "Welcome. Loans PROD Environment!"
+  message: "Welcome. Loans Microservice API Production Environment!"
   contactDetails:
-    name: "Barack Obama - Production Support"
-    email: "barack.obama@example.com"
+    name: "Michelle Obama - Production Support"
+    email: "michelle.obama@example.com"
   onCallSupport:
     - (555) 123-4567
     - (555) 987-6543
