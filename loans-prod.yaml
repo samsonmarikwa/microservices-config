@@ -1,8 +1,8 @@
 
 loans:
-  message: "Welcome. Loans API Prod Env!"
+  message: "Welcome. Loans API Production Environment!"
   contactDetails:
-    name: "Michelle Obama - Prod Support"
+    name: "Michelle Obama - Production Support"
     email: "michelle.obama@example.com"
   onCallSupport:
     - (555) 123-4567
