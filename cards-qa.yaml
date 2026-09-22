@@ -1,8 +1,8 @@
 
 cards:
-  message: "Welcome. Cards API QA Environment!"
+  message: "Welcome. Cards API QA API!"
   contactDetails:
-    name: "Joe Bloggs - Quality Assurance Support"
+    name: "Joe Bloggs - QA Support"
     email: "joe.bloggs@example.com"
   onCallSupport:
     - (444) 123-4567
